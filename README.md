@@ -6,14 +6,14 @@ Autor: Robert Detaille (robert.detaille@tu-dortmund.de)
 
 # Inhalt
 
-**Verfahren**
+**Verfahren** (die in der Arbeit vorgestellten Algorithmen)
 ```
 ssn.m           Regularisiertes semiglattes Quasi-Newton-Verfahren
 ssnDual.m       Doppelt regularisiertes semiglattes Newton-Verfahren
 sinkhorn.m      Sinkhorn Algorithmus
 ```
 
-**Hilfsfunktionen**
+**Hilfsfunktionen** (Zielfunktionen der dualen Probleme)
 ```
 phi.m           Zielfunktion des regularisierten dualen Problems
 phiDe.m         Zielfunktion des doppelt regularisierten dualen Problems
