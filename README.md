@@ -16,8 +16,8 @@ sinkhorn.m      Sinkhorn Algorithmus
 **Hilfsfunktionen** (Zielfunktionen der dualen Probleme, ssn.m und ssnDual.m greifen
 auf diese Funktionen zu)
 ```
-phi.m           Zielfunktion des regularisierten dualen Problems
-phiDe.m         Zielfunktion des doppelt regularisierten dualen Problems
+phi.m           Zielfunktion des dualen Problems
+phiDe.m         Zielfunktion des regularisierten dualen Problems
 ```
 
 **Plots und Tabellen**
