@@ -1,6 +1,6 @@
 # Semismooth-Newton
 
-Code für die Masterarbeit "Quadratisch regularisierter optimaler Transport"
+MATLAB und Python Code für die Masterarbeit "Quadratisch regularisierter optimaler Transport"
 
 Autor: Robert Detaille (robert.detaille@tu-dortmund.de)
 
@@ -27,7 +27,7 @@ analysisSSNOrderOfConvergence.m     Plot Konvergenzordnung
 analysisSSNPerformance.m            Tabelle Perfomance
 analysisSSNvsSinkhornIterations.m   Plot Vergleich Iterationen sinhorn.m vs ssn.m
 analysisSSNvsSinkhornRuntime.m      Plot Vergleich Laufzeit sinkhorn.m vs ssn.m
-densityMap.ipynb 
+densityMap.ipynb                    Visualisierung eines 2d-Transportplans
 ```
 
 **Kostenfunktionen**
