@@ -13,7 +13,8 @@ ssnDual.m       Doppelt regularisiertes semiglattes Newton-Verfahren
 sinkhorn.m      Sinkhorn Algorithmus
 ```
 
-**Hilfsfunktionen** (Zielfunktionen der dualen Probleme)
+**Hilfsfunktionen** (Zielfunktionen der dualen Probleme, ssn.m und ssnDual.m greifen
+auf diese Funktionen zu)
 ```
 phi.m           Zielfunktion des regularisierten dualen Problems
 phiDe.m         Zielfunktion des doppelt regularisierten dualen Problems
