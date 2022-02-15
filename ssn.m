@@ -7,7 +7,7 @@ function [tEnd,k] = ssn(my,ny,cost,M,N)
 % initialize parameters
 r = 0.001;
 tau = 0.002;
-gamma = 0.001;
+gamma = 100;
 gammaStart = gamma;
 gammaFinal = 0.001;
 % update gamma 3 time to reach gammaFinal
